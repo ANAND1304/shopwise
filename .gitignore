@@ -1,0 +1,22 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Java
+backend-java/target/
+*.class
+*.jar
+
+# Environment files (NEVER commit these)
+.env
+*.env
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Frontend build
+frontend/dist/
