@@ -120,9 +120,7 @@ See `backend-java/API.md` and `ai-search-service/API.md`.
 
 ## WebSite View 
 
-<img width="1920" height="1200" alt="Screenshot 2026-06-19 141721" src="https://github.com/user-attachments/assets/ea47133f-d882-401a-8464-9c2deb66e4f5" />
-<img width="1920" height="1200" alt="Screenshot 2026-06-19 141651" src="https://github.com/user-attachments/assets/e96531b3-683e-41b1-92d4-bdf189f0960b" />
-<img width="1920" height="1200" alt="Screenshot 2026-06-19 141432" src="https://github.com/user-attachments/assets/66bd3883-88df-4bb6-889a-8e56ab2bb4a7" />
+
 
 
 
