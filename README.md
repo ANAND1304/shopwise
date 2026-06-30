@@ -117,6 +117,9 @@ After seeding: `admin@shopwise.com` / `Admin@123`
 
 See `backend-java/API.md` and `ai-search-service/API.md`.
 
+## URL Link
+https://shopwise-neon.vercel.app/
+
 
 ## WebSite View 
 
